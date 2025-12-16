@@ -85,6 +85,8 @@ These packets protect data confidentiality during web communication.
 - Differences between TCP, DNS, and encrypted HTTPS traffic
 - Importance of packet analysis in network troubleshooting and security monitoring
 
+Note: The original packet capture was filtered and/or compressed to reduce file size
+while preserving relevant protocol data (DNS, TCP, TLS) for analysis and review.
 ---
 
 ## 📝 Conclusion
